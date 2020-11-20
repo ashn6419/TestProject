@@ -1,0 +1,6 @@
+D:\Test\MachineTestEmpower\DomainModels\bin\Debug\DomainModels.dll
+D:\Test\MachineTestEmpower\DomainModels\bin\Debug\DomainModels.pdb
+D:\Test\MachineTestEmpower\DomainModels\obj\Debug\DomainModels.csproj.CoreCompileInputs.cache
+D:\Test\MachineTestEmpower\DomainModels\obj\Debug\DomainModels.dll
+D:\Test\MachineTestEmpower\DomainModels\obj\Debug\DomainModels.pdb
+D:\Test\MachineTestEmpower\DomainModels\obj\Debug\DomainModels.csprojAssemblyReference.cache

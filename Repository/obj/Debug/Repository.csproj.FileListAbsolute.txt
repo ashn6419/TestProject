@@ -1,0 +1,17 @@
+D:\Test\MachineTestEmpower\Repository\bin\Debug\Repository.dll.config
+D:\Test\MachineTestEmpower\Repository\bin\Debug\Repository.dll
+D:\Test\MachineTestEmpower\Repository\bin\Debug\Repository.pdb
+D:\Test\MachineTestEmpower\Repository\bin\Debug\ApplicationCore.dll
+D:\Test\MachineTestEmpower\Repository\bin\Debug\DomainModels.dll
+D:\Test\MachineTestEmpower\Repository\bin\Debug\EntityFramework.dll
+D:\Test\MachineTestEmpower\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Test\MachineTestEmpower\Repository\bin\Debug\ApplicationCore.pdb
+D:\Test\MachineTestEmpower\Repository\bin\Debug\ApplicationCore.dll.config
+D:\Test\MachineTestEmpower\Repository\bin\Debug\DomainModels.pdb
+D:\Test\MachineTestEmpower\Repository\bin\Debug\EntityFramework.xml
+D:\Test\MachineTestEmpower\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Test\MachineTestEmpower\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Test\MachineTestEmpower\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Test\MachineTestEmpower\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Test\MachineTestEmpower\Repository\obj\Debug\Repository.dll
+D:\Test\MachineTestEmpower\Repository\obj\Debug\Repository.pdb
